@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: aura-ai-api
+    env: php
+    plan: free
